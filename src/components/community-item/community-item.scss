@@ -1,0 +1,47 @@
+/*================================
+      Community Item
+================================*/
+
+.communityList > div > img{
+    margin-right: 20px;
+}
+
+.communityListItem-buttons {
+    position: absolute;
+    right: 10px;
+}
+
+.communityListItem-buttons > div > button{
+    font-size: 8pt;
+}
+
+.message-text_Communities{
+    color: #333333;
+    font-size: 15px;
+    font-weight: 300;
+    float: left;
+    border-left: 20px;
+}
+
+.communityName {
+    font-size: 15px;
+    padding-top: 35px;
+    padding-top: 0;
+}
+
+.contentCommunityPara {
+    color: #7e7e7e;
+    font-size: 12px;
+}
+
+.contentCommunity {
+    padding: 5px 0;
+}
+.contentCommunity {
+    position: relative;
+    top: 50%;
+}
+
+.card-md{
+    background: rgba(245,242,245,0.4);
+}
