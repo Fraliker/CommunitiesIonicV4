@@ -2,5 +2,7 @@
   "name": "CommunitiesIONICV4",
   "app_id": "1ee219e4",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
